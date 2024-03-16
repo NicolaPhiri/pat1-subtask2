@@ -1,23 +1,34 @@
+//#include <iostream>
 #include <iostream>
 using namespace std;
 int main()
 {
     /* Declare variables*/
     int intTemp1, intTemp2, intTemp3;
-    /*Capture Values*/
+    /*Ask for input values*/
     cout<< "Please enter first tempreture reading"<< " ";
     cin>> intTemp1;
     cout<< "Please enter second tempreture"<< " ";
     cin>> intTemp2;
     cout<< "Please enter the third tempreture"<< " ";
     cin>> intTemp3;
-if ( intTemp2>= Temp1+50)
+//Condition 
+if (intTemp2>= temp1+50)
 {
-    cout<<"Reduce fryer heat before taking the next reading";
+    cout<<"Reduce fryer heat before taking the next reading";}
+else if (intTemp2> Temp2+10)
+{
+    cout<< "Please increase the fryer heat before taking the third reading";
 }
 else
-    {
-        cout<< "Second tempreture is greater";
-    }
+{
+    cout<<"Temprure is perfect.";
+}
+if (Temp3>150 && 190;)
+{
+    cout<<"You may start frying the Magwinyas";}
+    else
+
+
 return 0; 
 }
