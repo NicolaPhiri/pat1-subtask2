@@ -9,6 +9,8 @@ int main()
     cin>> intTemp1;
     cout<< "Enter second Temprture";
     cin>> intTemp2;
+    cout<< "Please enter the third tempreture"<< " ";
+    cin>> intTemp3;
 if ( intTemp1>intTemp2)
 {
     cout<<"First tempreture is greater";
