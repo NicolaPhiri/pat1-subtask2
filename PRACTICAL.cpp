@@ -22,13 +22,13 @@ else if (intTemp2> Temp2+10)
 }
 else
 {
-    cout<<"Temprure is perfect.";
+    cout<<"Temperture is perfect.";
 }
 if (Temp3>150 && 190;)
 {
     cout<<"You may start frying the Magwinyas";}
-    else
-
-
+    else{
+    cout<<" The oil is not ready for frying";
+    }
 return 0; 
 }
