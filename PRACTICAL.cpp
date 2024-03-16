@@ -11,9 +11,9 @@ int main()
     cin>> intTemp2;
     cout<< "Please enter the third tempreture"<< " ";
     cin>> intTemp3;
-if ( intTemp1>intTemp2)
+if ( intTemp2>= Temp1+50)
 {
-    cout<<"First tempreture is greater";
+    cout<<"Reduce fryer heat before taking the next reading";
 }
 else
     {
