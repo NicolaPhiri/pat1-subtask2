@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     /* Declare variables*/
-    int intTemp1, intTemp2;
+    int intTemp1, intTemp2, intTemp3;
     /*Capture Values*/
     cout<< "Please enter first tempreture reading"<< " ";
     cin>> intTemp1;
