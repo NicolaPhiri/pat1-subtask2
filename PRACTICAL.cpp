@@ -5,9 +5,9 @@ int main()
     /* Declare variables*/
     int intTemp1, intTemp2;
     /*Capture Values*/
-    cout<< "Enter first tempreture";
+    cout<< "Please enter first tempreture reading"<< " ";
     cin>> intTemp1;
-    cout<< "Enter second Temprture";
+    cout<< "Please enter second tempreture"<< " ";
     cin>> intTemp2;
     cout<< "Please enter the third tempreture"<< " ";
     cin>> intTemp3;
