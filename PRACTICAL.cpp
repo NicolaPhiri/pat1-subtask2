@@ -6,11 +6,11 @@ int main()
     /* Declare variables*/
     int intTemp1, intTemp2, intTemp3;
     /*Ask for input values*/
-    cout<< "Please enter first tempreture reading"<< " ";
+    cout<< "Please enter first temperature reading"<< " ";
     cin>> intTemp1;
-    cout<< "Please enter second tempreture"<< " ";
+    cout<< "Please enter second temperature"<< " ";
     cin>> intTemp2;
-    cout<< "Please enter the third tempreture"<< " ";
+    cout<< "Please enter the third temperature"<< " ";
     cin>> intTemp3;
 //Condition 
 if (intTemp2>= temp1+50)
@@ -22,7 +22,7 @@ else if (intTemp2> Temp2+10)
 }
 else
 {
-    cout<<"Temperture is perfect.";
+    cout<<"Temperature is perfect.";
 }
 if (Temp3>150 && 190;)
 {
