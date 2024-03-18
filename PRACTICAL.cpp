@@ -24,7 +24,7 @@ else
 {
     cout<<"Temperature is perfect.";
 }
-if (Temp3>150 && 190;)
+if (intTemp3>150 && 190;)
 {
     cout<<"You may start frying the Magwinyas";}
     else{
