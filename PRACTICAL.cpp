@@ -16,7 +16,7 @@ int main()
 if (intTemp2>= Temp1+50)
 {
     cout<<"Reduce fryer heat before taking the next reading";}
-else if (intTemp2> intTemp2+10)
+else if (intTemp2> intTemp1+10)
 {
     cout<< "Please increase the fryer heat before taking the third reading";
 }
