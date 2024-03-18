@@ -13,7 +13,7 @@ int main()
     cout<< "Please enter the third temperature"<< " ";
     cin>> intTemp3;
 //Condition 
-if (intTemp2>= temp1+50)
+if (intTemp2>= Temp1+50)
 {
     cout<<"Reduce fryer heat before taking the next reading";}
 else if (intTemp2> intTemp2+10)
